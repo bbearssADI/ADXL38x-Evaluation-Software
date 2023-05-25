@@ -1,0 +1,10 @@
+[Volume Id]
+DistributionGUID={46D4B942-2FFB-471D-A490-CDFFD2AA4992}
+DistPackageGUID={D85F4FDF-0E95-4CC0-9729-C04A346E90C1}
+DistributionVersion=1.0.0
+DistributionType=MDF
+DistributionLanguage=9
+Volume=1
+TotalNumberOfVolumesInDistribution=1
+ExePath=ADXL38x_Setup.exe
+UpdateInfoFile=supportfiles\updateInfo.xml
